@@ -20,7 +20,7 @@ The public documentation covers:
 
 This repository is intentionally limited.
 
-It does not contain ProsightAI source code, models, algorithms, infrastructure, datasets, customer data, internal architecture, research experiments, product roadmaps, domain configurations, or other proprietary implementation details.
+It does not contain ProsightAI source code, models, algorithms, infrastructure, datasets, customer data, internal architecture, research experiments, product roadmaps, or other proprietary implementation details.
 
 ProsightAI outputs provide physiological information and context. They are not a substitute for professional medical advice or human decision-making.
 
